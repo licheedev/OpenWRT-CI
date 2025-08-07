@@ -70,7 +70,7 @@ UPDATE_PACKAGE "qmodem" "FUjr/QModem" "main"
 UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "luci-app-timewol luci-app-wolplus"
 UPDATE_PACKAGE "vnt" "lmq8267/luci-app-vnt" "main"
 UPDATE_PACKAGE "luci-app-lucky" "gdy666/luci-app-lucky" "main"
-UPDATE_PACKAGE "luci-theme-material3" "AngelaCooljx/luci-theme-material3" "main"
+UPDATE_PACKAGE "material3" "AngelaCooljx/luci-theme-material3" "main"
 
 #更新软件包版本
 UPDATE_VERSION() {
