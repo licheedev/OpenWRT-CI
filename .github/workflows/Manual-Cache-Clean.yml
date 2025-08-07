@@ -1,4 +1,4 @@
-name: Cache-Clean
+name: Manual-Cache-Clean
 
 on:
   workflow_dispatch:
